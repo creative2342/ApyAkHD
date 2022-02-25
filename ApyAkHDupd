@@ -1,0 +1,7 @@
+{ "title": "Apyar All Kar HD [v1.0.0]",
+"message": "Hello folks, I just added some new features in this app. So, Pls update.\n - added new websites. ",
+"download": "", 
+"playstore": "com.apyarhd.allkarhd",
+"uninstall": false, 
+"what": { "model": [], "version": [], "all": true }, 
+"versionName": "1.0.0", "versionCode": 1, "force": true }
